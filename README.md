@@ -6,6 +6,12 @@ Govm lets you work with multiple versions of Go, actively.
 
 # installation
 
+### from binary
+download binary from [here](https://github.com/golang-vm/govm/releases)
+and copy the binary to a place under $PATH
+
+[or]
+### with Go
 ```
 go get github.com/golang-vm/govm
 ```
