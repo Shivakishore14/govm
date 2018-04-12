@@ -48,3 +48,6 @@ govm exec 1.10 go env
 # Contributing
 
 Contributions to GoVM are welcome and encouraged.  please read CONTRIBUTING.md
+
+# Bugs ?
+Please report them under [issues](https://github.com/golang-vm/govm/issues)
