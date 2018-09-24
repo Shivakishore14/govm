@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/dustin/go-humanize"
 	"github.com/mholt/archiver"
-	"github.com/golang-vm/govm/domain"
+	"github.com/shivakishore14/govm/domain"
 	"io"
 	"net/http"
 	"os"

@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"github.com/golang-vm/govm/domain"
+	"github.com/shivakishore14/govm/domain"
 	"os"
 	"path/filepath"
 )

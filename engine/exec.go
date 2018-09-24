@@ -3,7 +3,7 @@ package engine
 import (
 	"bytes"
 	"fmt"
-	"github.com/golang-vm/govm/utils"
+	"github.com/shivakishore14/govm/utils"
 	"os"
 	"os/exec"
 	"path/filepath"

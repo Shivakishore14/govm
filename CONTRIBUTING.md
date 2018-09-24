@@ -13,5 +13,5 @@ Please take moment and read this fantastic post on how to easily work with Go re
 
 ## Contributing to GoVM
 
-1. Check [https://github.com/golang-vm/govm/issues](https://github.com/golang-vm/govm/issues) to make sure you're not working on a duplicate issue or PR.
+1. Check [https://github.com/shivakishore14/govm/issues](https://github.com/shivakishore14/govm/issues) to make sure you're not working on a duplicate issue or PR.
 2. if you have a feature or a fix in mind, Please open a issue then give a PR referencing that issue.

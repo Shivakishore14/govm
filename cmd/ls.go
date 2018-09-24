@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/golang-vm/govm/engine"
+	"github.com/shivakishore14/govm/engine"
 	"github.com/spf13/cobra"
 )
 

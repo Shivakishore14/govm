@@ -8,13 +8,13 @@ Govm lets you work with multiple versions of Go, actively.
 
 ## Step 1
 #### from binary
-download binary from [here](https://github.com/golang-vm/govm/releases)
+download binary from [here](https://github.com/shivakishore14/govm/releases)
 and copy the binary to a place under `$PATH`.
 
 [or]
 #### with Go
 ```
-go get github.com/golang-vm/govm
+go get github.com/shivakishore14/govm
 ```
 
 ## step 2
@@ -59,4 +59,4 @@ govm exec 1.10 go env
 Contributions to GoVM are welcome and encouraged.  please read CONTRIBUTING.md
 
 # Bugs ?
-Please report them under [issues](https://github.com/golang-vm/govm/issues)
+Please report them under [issues](https://github.com/shivakishore14/govm/issues)
